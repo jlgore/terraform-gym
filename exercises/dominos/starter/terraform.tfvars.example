@@ -1,0 +1,11 @@
+# Sample address values
+# Replace with a real address near you (school, business, etc.)
+# The Dominos API validates addresses!
+
+street_address = "350 5th Ave"
+city           = "New York"
+state          = "NY"
+zip_code       = "10118"
+
+# Try different search terms!
+menu_search = ["pepperoni", "large"]
